@@ -133,7 +133,7 @@ def get_web_page():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>โปรแกรมบัญชีรายรับ-รายจ่าย (Cloud Version)</title>
+        <title>Expense Tracker</title>
         <script src="https://cdn.tailwindcss.com"></script>
         <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600&display=swap" rel="stylesheet">
         <style>body { font-family: 'Kanit', sans-serif; }</style>
